@@ -1,0 +1,1 @@
+This is the "Recipes" project found in The Odin Project's Foundations course. This is a bit of a refresher for me, as I have done this exact project before, but it has been a couple months. 
